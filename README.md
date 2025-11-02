@@ -1,8 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Ilayda 👋<br><br>I'm a Business Informatics student at the Augsburg University of Applied Sciences.
-
-My studies give me a strong foundation in process analysis (UML/BPMN) and enterprise systems (SAP). However, I've discovered my true passion lies in **modern web development**. I love solving problems with code and am actively looking for a role where I can grow as a developer.
-
+Hi there, I'm Ilayda 👋<br><br>I'm a Business Informatics student.
 # 💻 Tech Stack:
 
 ### 🚀 Web Development (Frontend, Backend, DB)
